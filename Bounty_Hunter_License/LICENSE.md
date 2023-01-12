@@ -6,7 +6,7 @@ Version 1.0, January 2023
 1. Definitions.
 
 "Bounty" shall mean:
-- An amount or percentage of the income or profit obtained by the Contractor, corresponding to {% of the annual profit}.
+- An amount or percentage of the income or profit obtained by the Contractor, corresponding to {5% of the annual profit}.
 
 "Hunter" shall mean:
 - An individual, group of associated people or Legal Entity that, is trying to accomplish or have achived, the objective of the Quest.
@@ -21,7 +21,7 @@ Version 1.0, January 2023
 - An individual or Legal Entity that, has trained artificial inteligence with, is making or has made use of, the software or product that is under this license.
 
 "Share Fee" shall mean:
-- An amount or percentage of the income or profit obtained by the Contractor, corresponding to {% of the annual profit}.
+- An amount or percentage of the income or profit obtained by the Contractor, corresponding to {5% of the annual profit}.
 
 "Grace Fee" shall mean:
 - An amount or percentage of the Share Fee under which the Contractor doesn't have to pay the bounty, corresponding to {$100 USD}.
