@@ -4,7 +4,7 @@
 
 # README
 
-The Bonty Hunter License tries to address the followng issues:
+The Bounty Hunter License tries to address the followng issues:
 
 - Boring to read licenses.
 - Costly trials.
